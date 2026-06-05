@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+.playwright/
+/backend/.playwright/
+*.log
+.DS_Store
